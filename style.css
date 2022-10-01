@@ -28,3 +28,44 @@ header .logo {
 main {
     padding: 20px;
 }
+
+input {
+    height: 29px;
+}
+
+button {
+        height: 35px;
+}
+
+.name-tag {
+    margin-top: 20px;
+    width: 400px;
+    height: 255px;
+    background: red;
+    color: white;
+    text-align: center;
+
+}
+
+h1 {
+    
+    margin: 0;
+    font-size: 3em;
+}
+
+.name-display {
+    padding: 25px;
+    background: white;
+    color: black;
+    font-family: cursive;
+    font-size: 1.5em;
+    
+}
+
+.intro {
+    margin: 0;
+
+}
+
+
+
